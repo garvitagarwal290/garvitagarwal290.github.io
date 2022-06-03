@@ -1,3 +1,3 @@
-#Welcome to my webpage!
+# Welcome to my webpage!
 
-#I am Garvit Agarwal, 4th year BS-MS at IISER Pune.
+# I am Garvit Agarwal, 4th year BS-MS at IISER Pune.
